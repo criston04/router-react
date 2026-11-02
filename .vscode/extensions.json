@@ -1,7 +1,6 @@
 {
-    "recommendations": [
-        "myml.vscode-markdown-plantuml-preview",
-        "esbenp.prettier-vscode",
-        "jebbs.plantuml"
-    ]
+  "recommendations": [
+    "pranshuagrawal.create-component",
+    "PranshuAgrawal.create-component"
+  ]
 }
